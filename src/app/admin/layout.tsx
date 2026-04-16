@@ -10,6 +10,7 @@ const adminNav = [
   { label: "Plans", href: "/admin/plans", icon: "\u2630" },
   { label: "Clients", href: "/admin/clients", icon: "\u263A" },
   { label: "Payments", href: "/admin/payments", icon: "\u2B24" },
+  { label: "Payment Links", href: "/admin/payment-links", icon: "\u2197" },
 ];
 
 export default function AdminLayout({
